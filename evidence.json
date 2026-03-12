@@ -1,0 +1,112 @@
+{
+  "Spirit": {
+    "Evidence1": "EMF 5",
+    "Evidence2": "Cold",
+    "Evidence3": "Spirit box"
+  },
+  "Ghoul": {
+    "Evidence1": "Bell",
+    "Evidence2": "Lantern blown",
+    "Evidence3": "Cold"
+  },
+  "Phantom": {
+    "Evidence1": "Silver mirror",
+    "Evidence2": "UV",
+    "Evidence3": "EMF 5"
+  },
+  "Grey Lady": {
+    "Evidence1": "Spirit box",
+    "Evidence2": "Ethereal residue",
+    "Evidence3": "Silver mirror"
+  },
+  "Revenant": {
+    "Evidence1": "Ethereal residue",
+    "Evidence2": "Spirit box",
+    "Evidence3": "EMF 5"
+  },
+  "Imp": {
+    "Evidence1": "Ethereal residue",
+    "Evidence2": "EMF 5",
+    "Evidence3": "Bell"
+  },
+  "Shade": {
+    "Evidence1": "EMF 5",
+    "Evidence2": "UV",
+    "Evidence3": "Lantern blown"
+  },
+  "Myling": {
+    "Evidence1": "Bell",
+    "Evidence2": "Ethereal residue",
+    "Evidence3": "Spirit box"
+  },
+  "Doven": {
+    "Evidence1": "Bell",
+    "Evidence2": "EMF 5",
+    "Evidence3": "Silver mirror"
+  },
+  "Funnel": {
+    "Evidence1": "",
+    "Evidence2": "",
+    "Evidence3": ""
+  },
+  "Tsuk": {
+    "Evidence1": "Cold",
+    "Evidence2": "Ethereal residue",
+    "Evidence3": "EMF 5"
+  },
+  "Preta": {
+    "Evidence1": "Bell",
+    "Evidence2": "Cold",
+    "Evidence3": "EMF 5"
+  },
+  "Poltergeist": {
+    "Evidence1": "UV",
+    "Evidence2": "Bell",
+    "Evidence3": "Silver mirror"
+  },
+  "Moroi": {
+    "Evidence1": "Lantern blown",
+    "Evidence2": "UV",
+    "Evidence3": "Ethereal residue"
+  },
+  "Wisp": {
+    "Evidence1": "Spirit box",
+    "Evidence2": "Lantern blown",
+    "Evidence3": "UV"
+  },
+  "Wraith": {
+    "Evidence1": "Lantern blown",
+    "Evidence2": "Ethereal residue",
+    "Evidence3": "Cold"
+  },
+  "Onryo": {
+    "Evidence1": "EMF 5",
+    "Evidence2": "Ethereal residue",
+    "Evidence3": "Silver mirror"
+  },
+  "Green Lady": {
+    "Evidence1": "Bell",
+    "Evidence2": "Lantern blown",
+    "Evidence3": "Silver mirror"
+  },
+  "Dalgyal Guishin": {
+    "Evidence1": "Silver mirror",
+    "Evidence2": "Spirit box",
+    "Evidence3": "Cold"
+  },
+  "Demon": {
+    "Evidence1": "EMF 5",
+    "Evidence2": "Lantern blown",
+    "Evidence3": "Bell"
+  },
+  "Oni": {
+    "Evidence1": "Silver mirror",
+    "Evidence2": "Spirit box",
+    "Evidence3": "EMF 5"
+  },
+  "Red Lady": {
+    "Evidence1": "Silver mirror",
+    "Evidence2": "Bell",
+    "Evidence3": "Cold"
+  }
+}
