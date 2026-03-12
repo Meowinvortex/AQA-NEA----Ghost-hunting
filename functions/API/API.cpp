@@ -19,7 +19,7 @@ namespace API {
             curlpp::Easy request;
             std::stringstream response;
             
-            request.setOpt(curlpp::options::Url("http://api.weatherapi.com/v1/current.json?key=a8ad9f8dda2946f9a1f195253250606&q=London&aqi=no"));
+            request.setOpt(curlpp::options::Url("http://api.weatherapi.com/v1/current.json?key=KEY&q=London&aqi=no"));
             request.setOpt(curlpp::options::WriteStream(&response));
 
             request.perform();
