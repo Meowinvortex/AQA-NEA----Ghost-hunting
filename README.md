@@ -22,4 +22,5 @@ Libraries were both installed on computer and locally built in project, a list o
   - https://limezu.itch.io/modernuserinterface
   - https://elvgames.itch.io/magic-spells-sfx-5-universal-game-sounds
   - https://limezu.itch.io/moderninteriors
+  
   Credits to all of them
