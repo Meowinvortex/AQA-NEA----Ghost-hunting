@@ -1,8 +1,8 @@
-# AQA-NEA----Ghost-hunting
+# AQA-NEA----Ghost-hunting (55/75)
 This a repository to store my c++ ghost hunting project used for my NEA computer science
 
 Unfortunately the program was first developed when I first started c++ / cmake and on linux so compiling it is...messy
-for this reason the cmake file isnt included cause it might aswell be in binary
+for this reason the cmake file isnt included
 All the required project files are here that need to be in a project folder (assets need to be extracted)
 The sql file needs to be imported into a local postgres database the user/password parameters of all the functions in functions/SQL.cpp
 need to be changed to your user that has access to the db
